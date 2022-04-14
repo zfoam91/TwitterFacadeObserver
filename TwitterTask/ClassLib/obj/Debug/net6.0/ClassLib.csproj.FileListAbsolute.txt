@@ -1,0 +1,12 @@
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\bin\Debug\net6.0\ClassLib.deps.json
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\bin\Debug\net6.0\ClassLib.dll
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\bin\Debug\net6.0\ref\ClassLib.dll
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\bin\Debug\net6.0\ClassLib.pdb
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.csproj.AssemblyReference.cache
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.AssemblyInfo.cs
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.dll
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ref\ClassLib.dll
+C:\Users\FX516PM\Desktop\Programs\C#\TwitterTask\ClassLib\obj\Debug\net6.0\ClassLib.pdb
